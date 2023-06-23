@@ -1,6 +1,9 @@
 <section>
     <h1 align="center">PLSQL</h1>
     <p align="justify">Welcome to my PL/SQL repository! Here you will find examples and implementations of various PL/SQL commands and techniques used in database development. The goal of this repository is to provide practical and clear explanations of how to use PL/SQL for data manipulation, data definition, and programming tasks.</p>
+    <div align="center">
+        <img width=400hr src="https://github.com/MyNameIsGustavo/PLSQL/assets/87160095/3d4f83b4-2989-43c1-a40c-597211b693ff">
+    </div>
 </section>
 
 <section>
